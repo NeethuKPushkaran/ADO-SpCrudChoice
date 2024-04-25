@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Codes\\ADO\\SPCrudChoice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|h:\\codes\\ado\\spcrudchoice\\spcrudchoice\\controllers\\employeedeletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|solutionrelative:spcrudchoice\\controllers\\employeedeletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|h:\\codes\\ado\\spcrudchoice\\spcrudchoice\\controllers\\employeeupdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|solutionrelative:spcrudchoice\\controllers\\employeeupdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|h:\\codes\\ado\\spcrudchoice\\spcrudchoice\\controllers\\employeereadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|solutionrelative:spcrudchoice\\controllers\\employeereadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|h:\\codes\\ado\\spcrudchoice\\spcrudchoice\\controllers\\employeecreatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|solutionrelative:spcrudchoice\\controllers\\employeecreatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|h:\\codes\\ado\\spcrudchoice\\spcrudchoice\\models\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|solutionrelative:spcrudchoice\\models\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|h:\\codes\\ado\\spcrudchoice\\spcrudchoice\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|solutionrelative:spcrudchoice\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|h:\\codes\\ado\\spcrudchoice\\spcrudchoice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54D06E-8FAA-4AB6-A409-DA77E46DBE07}|SPCrudChoice\\SPCrudChoice.csproj|solutionrelative:spcrudchoice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeCreateController.cs",
+              "DocumentMoniker": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Controllers\\EmployeeCreateController.cs",
+              "RelativeDocumentMoniker": "SPCrudChoice\\Controllers\\EmployeeCreateController.cs",
+              "ToolTip": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Controllers\\EmployeeCreateController.cs",
+              "RelativeToolTip": "SPCrudChoice\\Controllers\\EmployeeCreateController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:19:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Models\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "SPCrudChoice\\Models\\IEmployeeRepository.cs",
+              "ToolTip": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Models\\IEmployeeRepository.cs",
+              "RelativeToolTip": "SPCrudChoice\\Models\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T04:42:17.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Models\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "SPCrudChoice\\Models\\EmployeeRepository.cs",
+              "ToolTip": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Models\\EmployeeRepository.cs",
+              "RelativeToolTip": "SPCrudChoice\\Models\\EmployeeRepository.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T04:41:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeReadController.cs",
+              "DocumentMoniker": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Controllers\\EmployeeReadController.cs",
+              "RelativeDocumentMoniker": "SPCrudChoice\\Controllers\\EmployeeReadController.cs",
+              "ToolTip": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Controllers\\EmployeeReadController.cs",
+              "RelativeToolTip": "SPCrudChoice\\Controllers\\EmployeeReadController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:21:33.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeUpdateController.cs",
+              "DocumentMoniker": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Controllers\\EmployeeUpdateController.cs",
+              "RelativeDocumentMoniker": "SPCrudChoice\\Controllers\\EmployeeUpdateController.cs",
+              "ToolTip": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Controllers\\EmployeeUpdateController.cs",
+              "RelativeToolTip": "SPCrudChoice\\Controllers\\EmployeeUpdateController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:21:26.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDeleteController.cs",
+              "DocumentMoniker": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Controllers\\EmployeeDeleteController.cs",
+              "RelativeDocumentMoniker": "SPCrudChoice\\Controllers\\EmployeeDeleteController.cs",
+              "ToolTip": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Controllers\\EmployeeDeleteController.cs",
+              "RelativeToolTip": "SPCrudChoice\\Controllers\\EmployeeDeleteController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:55:45.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SPCrudChoice\\Models\\Employee.cs",
+              "ToolTip": "H:\\Codes\\ADO\\SPCrudChoice\\SPCrudChoice\\Models\\Employee.cs",
+              "RelativeToolTip": "SPCrudChoice\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:09:36.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
